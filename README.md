@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on the exibition of works made by me, personal.
 - ⚡ Fun fact: I'm in love with playing Heroes III.
 
-# Apple development (Swift) products line
+# Apple (Swift) product line
 
 ## Apps
 
@@ -22,10 +22,10 @@
 - [macOS app](https://github.com/perseusrealdeal/macos.darkmode.discovery)
 - [iOS app](https://github.com/perseusrealdeal/ios.darkmode.discovery)
 
-## Xcode project templates
+## Xcode custom project templates
 
 - [Apple Technological Tree](https://github.com/perseusrealdeal/XcodeTemplateProject)
 
-# Android development (Kotlin) products line
+# Android (Kotlin) product line
 
-Just an idea... for a while.
+> Just an idea... for a while.
