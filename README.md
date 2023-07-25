@@ -1,7 +1,7 @@
 # Welcome to Mikhail Zhigulin 
 
 - 🔭 I’m currently working on the exibition of works made by me, personal.
-- ⚡ Fun fact: I'm in love with playing Heroes III.
+- ⚡ Fun fact: I'm in love with playing dominoes and chess.
 
 # Apple (Swift) product line
 
