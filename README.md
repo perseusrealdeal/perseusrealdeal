@@ -3,9 +3,7 @@
 - 🔭 I’m currently working on the exibition of works made by me, personal.
 - ⚡ Fun fact: I'm in love with playing Heroes III.
 
-# Apple development (Swift) section
-
-Apple exhibits are , [Dark Mode](), [Tools for Dark Mode](), [Demo iOS app](), [Demo macOS app]() and a gift [Weather app](https://github.com/perseusrealdeal/apple.weather) that is not a demo, but not a commercial one.
+# Apple development (Swift) products line
 
 ## Apps
 
@@ -28,6 +26,6 @@ Apple exhibits are , [Dark Mode](), [Tools for Dark Mode](), [Demo iOS app](), [
 
 - [Apple Technological Tree](https://github.com/perseusrealdeal/XcodeTemplateProject)
 
-# Android development (Kotlin) section
+# Android development (Kotlin) products line
 
 Just an idea... for a while.
