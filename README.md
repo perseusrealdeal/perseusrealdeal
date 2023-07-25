@@ -5,10 +5,11 @@
 
 # Apple (Swift) product line
 
-## Apps
+## Apps and others
 
 - [Weather for macOS](https://github.com/perseusrealdeal/macOS.Weather)
 - [Weather for iOS](https://github.com/perseusrealdeal/iOS.Weather)
+- [Perseus logger for macOS and iOS](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5)
 
 ## Libraris and Frameworks
 
