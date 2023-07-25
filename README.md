@@ -3,6 +3,31 @@
 - 🔭 I’m currently working on the exibition of works made by me, personal.
 - ⚡ Fun fact: I'm in love with playing Heroes III.
 
-The exibition is about things that goes in history so fast than anything else today, but such things can be enjoyable and usable yet for a while of course. So, let's go!
+# Apple development (Swift) section
 
-Apple exhibits are [Apple Technological Tree](https://github.com/perseusrealdeal/XcodeTemplateProject), [Dark Mode](https://github.com/perseusrealdeal/PerseusDarkMode), [Tools for Dark Mode](https://github.com/perseusrealdeal/PerseusUISystemKit), [Demo iOS app](https://github.com/perseusrealdeal/ios.darkmode.discovery), [Demo macOS app](https://github.com/perseusrealdeal/macos.darkmode.discovery) and a gift [Weather app](https://github.com/perseusrealdeal/apple.weather) that is not a demo, but not a commercial one.
+Apple exhibits are , [Dark Mode](), [Tools for Dark Mode](), [Demo iOS app](), [Demo macOS app]() and a gift [Weather app](https://github.com/perseusrealdeal/apple.weather) that is not a demo, but not a commercial one.
+
+## Apps
+
+- [Weather for macOS](https://github.com/perseusrealdeal/macOS.Weather)
+- [Weather for iOS](https://github.com/perseusrealdeal/iOS.Weather)
+
+## Libraris and Frameworks
+
+- [Perseus Dark Mode](https://github.com/perseusrealdeal/PerseusDarkMode)
+- [Perseus UI System Kit](https://github.com/perseusrealdeal/PerseusUISystemKit)
+- [OpenWeather Free Client](https://github.com/perseusrealdeal/OpenWeatherFreeClient)
+- [Perseus Geo Location Kit](https://github.com/perseusrealdeal/PerseusGeoLocationKit)
+
+## Demo apps
+
+- [macOS app](https://github.com/perseusrealdeal/macos.darkmode.discovery)
+- [iOS app](https://github.com/perseusrealdeal/ios.darkmode.discovery)
+
+## Xcode project templates
+
+- [Apple Technological Tree](https://github.com/perseusrealdeal/XcodeTemplateProject)
+
+# Android development (Kotlin) section
+
+Just an idea... for a while.
