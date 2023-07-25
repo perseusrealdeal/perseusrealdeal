@@ -7,25 +7,25 @@
 
 ## Apps and others
 
-- [Weather app for macOS](https://github.com/perseusrealdeal/macOS.Weather)
-- [Weather app for iOS](https://github.com/perseusrealdeal/iOS.Weather)
-- [Perseus logger for macOS and iOS](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5)
+- [ ] [Weather app for macOS](https://github.com/perseusrealdeal/macOS.Weather)
+- [ ] [Weather app for iOS](https://github.com/perseusrealdeal/iOS.Weather)
+- [x] [Perseus logger for macOS and iOS](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5)
 
 ## Libraris and Frameworks
 
-- [Perseus Dark Mode](https://github.com/perseusrealdeal/PerseusDarkMode)
-- [Perseus UI System Kit](https://github.com/perseusrealdeal/PerseusUISystemKit)
-- [OpenWeather Free Client](https://github.com/perseusrealdeal/OpenWeatherFreeClient)
-- [Perseus Geo Location Kit](https://github.com/perseusrealdeal/PerseusGeoLocationKit)
+- [x] [Perseus Dark Mode](https://github.com/perseusrealdeal/PerseusDarkMode)
+- [x] [Perseus UI System Kit](https://github.com/perseusrealdeal/PerseusUISystemKit)
+- [x] [OpenWeather Free Client](https://github.com/perseusrealdeal/OpenWeatherFreeClient)
+- [x] [Perseus Geo Location Kit](https://github.com/perseusrealdeal/PerseusGeoLocationKit)
 
 ## Demo apps
 
-- [macOS app](https://github.com/perseusrealdeal/macos.darkmode.discovery)
-- [iOS app](https://github.com/perseusrealdeal/ios.darkmode.discovery)
+- [x] [macOS app](https://github.com/perseusrealdeal/macos.darkmode.discovery)
+- [x] [iOS app](https://github.com/perseusrealdeal/ios.darkmode.discovery)
 
 ## Xcode custom project templates
 
-- [Apple Technological Tree](https://github.com/perseusrealdeal/XcodeTemplateProject)
+- [x] [Apple Technological Tree](https://github.com/perseusrealdeal/XcodeTemplateProject)
 
 # Android (Kotlin) product line
 
