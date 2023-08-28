@@ -7,11 +7,11 @@
 
 ## Apps and others
 
-- [ ] [Weather app for macOS](https://github.com/perseusrealdeal/macOS.Weather)
-- [ ] [Weather app for iOS](https://github.com/perseusrealdeal/iOS.Weather)
-- [x] [Perseus logger for macOS and iOS](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5)
+- [ ] Weather app for [macOS](https://github.com/perseusrealdeal/macOS.Weather)
+- [ ] Weather app for [iOS](https://github.com/perseusrealdeal/iOS.Weather)
+- [x] Perseus logger for [macOS and iOS](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5)
 
-## Libraris and Frameworks
+## Libraries and Frameworks
 
 - [x] [Perseus Dark Mode](https://github.com/perseusrealdeal/PerseusDarkMode)
 - [x] [Perseus UI System Kit](https://github.com/perseusrealdeal/PerseusUISystemKit)
