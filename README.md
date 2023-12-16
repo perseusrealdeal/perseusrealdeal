@@ -18,10 +18,10 @@
 - [x] [OpenWeather Free Client](https://github.com/perseusrealdeal/OpenWeatherFreeClient)
 - [x] [Perseus Geo Location Kit](https://github.com/perseusrealdeal/PerseusGeoLocationKit)
 
-## Demo apps
+## Apps just for fun
 
-- [x] [macOS app](https://github.com/perseusrealdeal/macos.darkmode.discovery)
-- [x] [iOS app](https://github.com/perseusrealdeal/ios.darkmode.discovery)
+- [x] [Hobbit.macOS](https://github.com/perseusrealdeal/macos.darkmode.discovery)
+- [x] [LOTR.iOS](https://github.com/perseusrealdeal/ios.darkmode.discovery)
 
 ## Xcode custom project templates
 
