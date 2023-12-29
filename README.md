@@ -20,8 +20,8 @@
 
 ## Apps just for fun
 
-- [x] [Hobbit.macOS](https://github.com/perseusrealdeal/macos.darkmode.discovery)
-- [x] [LOTR.iOS](https://github.com/perseusrealdeal/ios.darkmode.discovery)
+- [x] Hobbit.[macOS](https://github.com/perseusrealdeal/macos.darkmode.discovery)
+- [x] LOTR.[iOS](https://github.com/perseusrealdeal/ios.darkmode.discovery)
 
 ## Xcode custom project templates
 
