@@ -7,9 +7,9 @@
 
 ## Apps and others
 
-- [ ] Snowman — weather app [macOS](https://github.com/perseusrealdeal/macOS.Weather)
-- [ ] Snowman — weather app [iOS](https://github.com/perseusrealdeal/iOS.Weather)
-- [x] Perseus — [logger](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5)
+- [ ] Snowman.[macOS](https://github.com/perseusrealdeal/macOS.Weather) — weather app
+- [ ] Snowman.[iOS](https://github.com/perseusrealdeal/iOS.Weather) — weather app
+- [x] Perseus.[logger](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5) — simple and easy-to-use source code abstraction
 
 ## Libraries and Frameworks
 
