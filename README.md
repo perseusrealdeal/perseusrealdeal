@@ -6,15 +6,15 @@
 # Apple (Swift) product line
 
 ## Apps
-
-- [ ] Snowman.[iOS](https://github.com/perseusrealdeal/iOS.Weather) — Weather app.
+<!--
+- [ ] Snowman.[iOS](https://github.com/perseusrealdeal/iOS.Weather) — Weather app. -->
 - [ ] Snowman.[macOS](https://github.com/perseusrealdeal/macOS.Weather) — Weather app. Status Menus app (menu bar one).
 
 ### Small things but simple and easy-to-use
 
-- [x] Perseus.[Logger](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5) — Take messaging to console under control.
-- [x] Perseus.[TimeFormat](https://gist.github.com/perseusrealdeal/7aa89d78d9b1c220cc06682be8908a97) — Get to know current system time. It's either 24 or 12.
 - [x] Perseus.[CompassDirection](https://gist.github.com/perseusrealdeal/3b053b2390d704f561ec52c6477b5cf2) — Lets show what's wind direction by degree.
+- [x] Perseus.[TimeFormat](https://gist.github.com/perseusrealdeal/7aa89d78d9b1c220cc06682be8908a97) — Get to know current system time. It's either 24 or 12.
+- [x] Perseus.[Logger](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5) — Take messaging to console under control.
 
 ## Libraries and Frameworks
 
