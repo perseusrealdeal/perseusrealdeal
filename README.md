@@ -16,6 +16,11 @@
 - [x] Perseus.[TimeFormat](https://gist.github.com/perseusrealdeal/7aa89d78d9b1c220cc06682be8908a97) — Get to know current system time. It's either 24 or 12.
 - [x] Perseus.[Logger](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5) — Take messaging to console under control.
 
+### The smallest ones, really just gifts
+
+- [x] JsonDataDictionaryGift.swift [Gist](https://gist.github.com/perseusrealdeal/918c25633122e64d51f363f00059f6f8)
+- [x] JsonDataPrettyPrintedGift.swift [Gist](https://gist.github.com/perseusrealdeal/945c9050cb9f7a19e00853f064acacca)
+
 ## Libraries and Frameworks
 
 - [x] [Perseus Dark Mode](https://github.com/perseusrealdeal/PerseusDarkMode)
