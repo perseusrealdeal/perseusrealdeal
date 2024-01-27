@@ -3,6 +3,12 @@
 - 🔭 I’m currently working on the exibition of works made by me, personal.
 - ⚡ Fun fact: I'm in love with playing dominoes and chess.
 
+## The Oak Tree greening by the Ocean...
+
+[The Technological Tree](https://github.com/perseusrealdeal/TheTechnologicalTree) custom project templates, my personal selection that works...still...
+
+Hobbit.[macOS](https://github.com/perseusrealdeal/macos.darkmode.discovery) / LOTR.[iOS](https://github.com/perseusrealdeal/ios.darkmode.discovery) oh J.R.R. Tolkien, whatta passion...
+
 # Apple (Swift) product line
 
 ## Apps
@@ -27,15 +33,6 @@
 - [x] [Perseus UI System Kit](https://github.com/perseusrealdeal/PerseusUISystemKit)
 - [x] [OpenWeather Free Client](https://github.com/perseusrealdeal/OpenWeatherFreeClient)
 - [x] [Perseus Geo Location Kit](https://github.com/perseusrealdeal/PerseusGeoLocationKit)
-
-## Apps just for fun
-
-- [x] Hobbit.[macOS](https://github.com/perseusrealdeal/macos.darkmode.discovery)
-- [x] LOTR.[iOS](https://github.com/perseusrealdeal/ios.darkmode.discovery)
-
-## Xcode custom project templates
-
-- [x] [Apple Technological Tree](https://github.com/perseusrealdeal/XcodeTemplateProject)
 
 # Android (Kotlin) product line
 
