@@ -9,23 +9,22 @@
 
 Hobbit.[macOS](https://github.com/perseusrealdeal/macos.darkmode.discovery) / LOTR.[iOS](https://github.com/perseusrealdeal/ios.darkmode.discovery) oh J.R.R. Tolkien, whatta passion...
 
-# Apple (Swift) product line
+# Apple (Swift) product line : Apps
 
-## Apps
 <!--
 - [ ] Snowman.[iOS](https://github.com/perseusrealdeal/iOS.Weather) — Weather app. -->
 - [ ] Snowman.[macOS](https://github.com/perseusrealdeal/macOS.Weather) — Weather app. Status Menus app (menu bar one).
 
 ### Small things but simple and easy-to-use
 
-- [x] Perseus.[CompassDirection](https://gist.github.com/perseusrealdeal/3b053b2390d704f561ec52c6477b5cf2) — Lets show what's wind direction by degree.
+- [x] Perseus.[CompassDirection](https://gist.github.com/perseusrealdeal/3b053b2390d704f561ec52c6477b5cf2) — Lets show what's wind direction by degree. It contains 16 points.
 - [x] Perseus.[TimeFormat](https://gist.github.com/perseusrealdeal/7aa89d78d9b1c220cc06682be8908a97) — Get to know current system time. It's either 24 or 12.
-- [x] Perseus.[Logger](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5) — Take messaging to console under control.
+- [x] Perseus.[Logger](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5) — Take consol messaging under control.
 
 ### The smallest ones, really just gifts
 
-- [x] JsonDataDictionaryGift.swift [Gist](https://gist.github.com/perseusrealdeal/918c25633122e64d51f363f00059f6f8)
-- [x] JsonDataPrettyPrintedGift.swift [Gist](https://gist.github.com/perseusrealdeal/945c9050cb9f7a19e00853f064acacca)
+- [x] [JsonDataDictionaryGift.swift](https://gist.github.com/perseusrealdeal/918c25633122e64d51f363f00059f6f8)
+- [x] [JsonDataPrettyPrintedGift.swift](https://gist.github.com/perseusrealdeal/945c9050cb9f7a19e00853f064acacca)
 
 ## Libraries and Frameworks
 
