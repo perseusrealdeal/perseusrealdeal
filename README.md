@@ -23,6 +23,7 @@ Hobbit.[macOS](https://github.com/perseusrealdeal/macos.darkmode.discovery) / LO
 
 ### The smallest ones, really just gifts
 
+- [x] [CurrentSystemLanguageGift.swift](https://gist.github.com/perseusrealdeal/98b082b136d574dd1b5aa760036dac8b)
 - [x] [JsonDataDictionaryGift.swift](https://gist.github.com/perseusrealdeal/918c25633122e64d51f363f00059f6f8)
 - [x] [JsonDataPrettyPrintedGift.swift](https://gist.github.com/perseusrealdeal/945c9050cb9f7a19e00853f064acacca)
 
