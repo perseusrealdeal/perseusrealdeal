@@ -34,10 +34,6 @@ Hobbit.[macOS](https://github.com/perseusrealdeal/macos.darkmode.discovery) / LO
 - [x] [OpenWeather Free Client](https://github.com/perseusrealdeal/OpenWeatherFreeClient)
 - [x] [Perseus Geo Location Kit](https://github.com/perseusrealdeal/PerseusGeoLocationKit)
 
-# Android (Kotlin) product line
-
-> Just an idea... for a while.
-
 # Support line
 
 <a href="https://www.buymeacoffee.com/perseusrealdeal"><img src="https://img.buymeacoffee.com/button-api/?text=Give me a drink&emoji=&slug=perseusrealdeal&button_colour=000000&font_colour=ffffff&font_family=Arial&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
