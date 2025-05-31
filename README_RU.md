@@ -4,7 +4,10 @@
 
 `Меня зовут Михаил Жигулин.`
 
-Я программирую на языке Swift и я фанат Apple. Как Swift (macOS/iOS) программист, я росту сам по себе. Здесь, вы, можете ознакомиться с моими `Open Source` проектами. Что понравится, можете взять себе на заметку или даже в работу.
+Я фанат Apple и Swift – это мой выбор. Веду свои iOS/macOS разработки в качестве Инди-разработчика. Люблю `Open Source` проекты - всегда есть что посмотреть, да и себя показать. 
+
+Люблю читать `Джона Р. Р. Толкиена`, а все мои отладочные приложения [iOS](https://github.com/perseusrealdeal/TheOneRing) и [macOS](https://github.com/perseusrealdeal/Arkenstone) в тематике Средиземья.
+Еще одна страть это велопутешествия. У меня красный GT велосипед вот уже как на протяжении более чем 15 лет!
 
 ---
 
@@ -26,9 +29,23 @@
 
 ---
 
-`Поддержке моих проектов рад очень` :
+## Магия целого
 
-Из России : [на чай можно тут](https://pay.cloudtips.ru/p/7a3b0d37)
+### Функциональные компоненты
+
+| Название                                                                 | Назначение                         | Доступность                        |
+|:-------------------------------------------------------------------------|:-----------------------------------|:-----------------------------------|
+| [`PerseusDarkMode`](https://github.com/perseusrealdeal/PerseusDarkMode)  | Работы с Dark-Light переключениями | macOS 10.13+, iOS 11+, Xcode 14.2+ |
+| [`PerseusGeoKit`](https://github.com/perseusrealdeal/PerseusGeoKit)      | Работы со службами локации         | macOS 10.13+, iOS 11+, Xcode 14.2+ |
+
+---
+
+`Понравилось? Что-то приглянулось?` : из России [на чай можно тут](https://spasibomir.ru/pay/18822)
+
+> Или через камеру по QR-коду
+
+<a href="https://spasibomir.ru/pay/18822"><img src="https://spasibomir.ru/user/qr-code/19/18822.png?v=4" width="200" style="max-width: 100%;"/></a>
+
+> И можно кофе)
 
 <a href="https://www.buymeacoffee.com/perseusrealdeal"><img src="https://img.buymeacoffee.com/button-api/?text=Сoffee&emoji=&slug=perseusrealdeal&button_colour=000000&font_colour=ffffff&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
-
