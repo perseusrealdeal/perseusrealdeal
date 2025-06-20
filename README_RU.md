@@ -49,3 +49,5 @@
 > И можно кофе)
 
 <a href="https://www.buymeacoffee.com/perseusrealdeal"><img src="https://img.buymeacoffee.com/button-api/?text=Сoffee&emoji=&slug=perseusrealdeal&button_colour=000000&font_colour=ffffff&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
+Ну и как же без подарков! Вот они [`подарки`](/GIFTS.md), возможно что-нибудь пригодится прямо сейчас.
