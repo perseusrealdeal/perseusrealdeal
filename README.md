@@ -7,7 +7,7 @@
 I passionate to code in Swift. I consider myself as a self-educated Indie Swift developer, iOS/macOS mostly.</br>
 Look at my `Open Source` projects. See how it's done in a way I choose, my personal workflow and preferences.</br>
 
-In my spare time I totally in `J.R.R. Toltien` Middle-earth.
+In my spare time I totally in `J.R.R. Tolkien` Middle-earth.
 My approbation apps [iOS](https://github.com/perseusrealdeal/TheOneRing) and [macOS](https://github.com/perseusrealdeal/Arkenstone) are all designed in Middle-earth theme.
 
 Another my love is riding a bike. I have a red GT bike for more than 15 years.
@@ -41,12 +41,18 @@ Another my love is riding a bike. I have a red GT bike for more than 15 years.
 
 ---
 
-`Support/Donates` : from Russia [leave a tip here](https://spasibomir.ru/pay/18822)
+`Support/Donates` : [leave a tip here](https://spasibomir.ru/pay/18822)
 
 > Or just scan the QR to leave a tip
 
 <a href="https://spasibomir.ru/pay/18822"><img src="https://spasibomir.ru/user/qr-code/19/18822.png?v=4" width="200" style="max-width: 100%;"/></a>
 
-> Coffee for a good time :)
+<!--
+
+> Coffee for a good time, also :)
 
 <a href="https://www.buymeacoffee.com/perseusrealdeal"><img src="https://img.buymeacoffee.com/button-api/?text=Сoffee&emoji=&slug=perseusrealdeal&button_colour=000000&font_colour=ffffff&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
+-->
+
+And of course [`gifts`](/GIFTS.md), extra small portions of the whole, also available for use.

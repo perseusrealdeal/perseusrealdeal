@@ -1,0 +1,13 @@
+# List of Gifts
+
+> Every `gift` is an extra small portion of the whole, also available for free, and ready for using in your project right now.
+
+| Type     | Name                                                                                                        | Purpose                                       | License                            | Where in Use                                                                    |
+| -------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------- |
+| Class    | [LogReport.swift](https://gist.github.com/PerseusRealDeal/9a4118301b59d43969d8edf5ebc3a571)                 | Collecting log messages                       | [Unlicense](https://unlicense.org) | [TheOneRing App](https://github.com/perseusrealdeal/TheOneRing)                 |
+| Class    | [PerseusCompassDirection.swift](https://gist.github.com/perseusrealdeal/3b053b2390d704f561ec52c6477b5cf2)   | Getting Compass point by wind degree          | MIT                                | [TheDarkMoon App](https://github.com/PerseusRealDeal/TheDarkMoon)               |
+| Class    | [PerseusTimeFormat.swift](https://gist.github.com/perseusrealdeal/7aa89d78d9b1c220cc06682be8908a97)         | Getting current system time format (24 or 12) | MIT                                | [TheDarkMoon App](https://github.com/PerseusRealDeal/TheDarkMoon)               |
+| Variable | [CurrentSystemLanguageGift.swift](https://gist.github.com/perseusrealdeal/98b082b136d574dd1b5aa760036dac8b) | Getting current system language               | [Unlicense](https://unlicense.org) | [TheDarkMoon App](https://github.com/PerseusRealDeal/TheDarkMoon)               |
+| Class    | [JsonDataDictionaryGift.swift](https://gist.github.com/PerseusRealDeal/918c25633122e64d51f363f00059f6f8)    | Representing JSON as Dictionary               | [Unlicense](https://unlicense.org) | [TheDarkMoon App](https://github.com/PerseusRealDeal/TheDarkMoon)               |
+| Variable | [JsonDataPrettyPrintedGift.swift](https://gist.github.com/perseusrealdeal/945c9050cb9f7a19e00853f064acacca) | Pretty Printing JSON Data                     | [Unlicense](https://unlicense.org) | [TheDarkMoon App](https://github.com/PerseusRealDeal/TheDarkMoon)               |
+| Variable | [PerseusLogger.swift](https://gist.github.com/perseusrealdeal/df456a9825fcface44eca738056eb6d5)             | Printing level controlled log message         | MIT                                | [ConsolePerseusLogger](https://github.com/perseusrealdeal/ConsolePerseusLogger) |
